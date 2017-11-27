@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Eshop</string>
+    <string name="title_activity_dashboard">ESHOP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- for dialog -->
+    <string name="dhalogue_btn_cancel">CANCEL</string>
+    <string name="dhalogue_btn_delete">DELETE</string>
+    <string name="dhalogue_btn_login">LOGIN</string>
+    <string name="dhalogue_btn_ok">OK</string>
+    <string name="dhalogue_btn_select">SELECT</string>
+
+    <string name="dialogue_connection_error_title">Connection Error</string>
+    <string name="dialogue_connection_error_content">Please check your internet connection and try again</string>
+
+    <string name="dialogue_delete_ad_title">Delete Ad</string>
+    <string name="dialogue_delete_ad_content">Are you sure want to delete ad</string>
+
+    <string name="dialogue_delete_alert_title">Delete Alert</string>
+    <string name="dialogue_delete_alert_content">Are you sure want to delete alert</string>
+
+    <string name="dialogue_login_title">Login to Continue</string>
+    <string name="dialogue_login_content">Please login before continue</string>
+
+    <string name="dialogue_google_accounts_title">Select Account</string>
+
+
+    <string name="dhalogue_btn_try_again">TRY AGAIN</string>
+
+    <string name="dhalogue_loading_content">Please Wait…</string>
+
+    <string name="dialogue_try_again_title">Connection Error</string>
+    <string name="dialogue_try_again_content">Please check your internet connection and try again</string>
+
+    <!-- <string name="facebook_app_id">349088295521815</string>
+     <string name="fb_login_protocol_scheme">fb1959135307705049</string>-->
+    <string name="facebook_app_id">380484065734051</string>
+    <string name="fb_login_protocol_scheme">fb380484065734051</string>
+    <string name="app_id">380484065734051</string>
+
+    <string name="Rs">\u20B9</string>
+</resources>

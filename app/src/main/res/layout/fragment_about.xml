@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:text="Mindnotix Software Solutions is an establishment by a Group of Professionals, who have proved their excellence in the IT Industry through their services in handling Cutting-edge Technologies, in the year 2012. We aim to provide global solutions to the small and large scale industries using our expertise in IT knowledge and latest technologies in the global market. Our technical team is passionate in undertaking and handling complex challenges and provide them with global solutions. We provide a wide range of services like Development of Custom Applications, Software Development, Web Design and Development Maldives, Web Application Development, Search Engine Optimization, Internet Marketing, Web Hosting and Application Integration. We never stop just with providing a solution, but optimize it with a great appearance which would provide a 100% user-friendly environment, which is easy to use. We are working continually with our clients to make their dreams and thoughts towards a perfect solution. That is what we say “WE WORK TOGETHER, WE GROW TOGHETHER”. We work with the client towards a WIN-WIN mission." />
+
+</FrameLayout>
